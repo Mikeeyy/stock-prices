@@ -34,4 +34,4 @@ Data is persisted in embedded H2 database.
 
 4. REST API 
 
-Plase take a look at point II. **Endpoints**
+Please take a look at point II. **Endpoints**
