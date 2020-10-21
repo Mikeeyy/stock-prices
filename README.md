@@ -35,3 +35,17 @@ Data is persisted in embedded H2 database.
 4. REST API 
 
 Please take a look at point II. **Endpoints**
+
+IV. **Tech stack**
+
+1. Java 11
+2. Spring Boot, Spring Data
+3. Embedded H2 database 
+4. JPA - Hibernate
+5. gradle
+6. docker, docker-compose
+7. JUnit5, mockito, JAssert
+8. Swagger (Springfox lib)
+9. Apache Kafka
+10. MapStruct
+11. Lombok
